@@ -22,7 +22,7 @@ else:
                     print("sobresaliente") #A in Spain
 
                 else:
-                    print("tu nota no es valida, esta por encima de 10")
+                    print("tu nota no es valida, esta por encima de 10") #your mark is not valid
 
 
             
