@@ -1,3 +1,3 @@
-# Python Learning 
+# Code Learning
 
-this is a repository for mi learning process with python at school
+this is a repository for mi learning process with python and other programming languages at school
