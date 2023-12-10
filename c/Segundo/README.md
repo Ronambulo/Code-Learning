@@ -1,4 +1,5 @@
+[P1]: https://github.com/Ronambulo/MEMsym
 En segundo trabaje en dos proyectos:
 
-* [Proyecto1][https://github.com/Ronambulo/MEMsym]
-* [Proyecto2][] (por hacer)
+* [Proyecto1][P1]
+* Proyecto2 (por hacer)
